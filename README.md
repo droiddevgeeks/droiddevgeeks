@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kishan-maurya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kishan-maurya/" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8007341/kishan-maurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/8007341/kishan-maurya" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/kishan-maurya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kishan-maurya/" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/8007341/kishan-maurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/8007341/kishan-maurya" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://medium.com/@kishankr.maurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kishankr.maurya" height="30" width="40" /></a>
 </p>
 
