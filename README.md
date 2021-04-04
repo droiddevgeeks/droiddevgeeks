@@ -63,8 +63,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=droiddevgeeks&show_icons=true&locale=en&layout=compact" alt="droiddevgeeks" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=droiddevgeeks&show_icons=true&locale=en" alt="droiddevgeeks" /></p>
-
-
-<a href="https://github.com/droiddevgeeks/NewsApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droiddevgeeks&repo=NewsApp" />
-</a>
