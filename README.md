@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=droiddevgeeks&label=Profile%20views&color=0e75b6&style=flat" alt="droiddevgeeks" /> </p>
 
 
-📝 I regularly write articles on [https://medium.com/@kishankr.maurya](https://medium.com/@kishankr.maurya)
+📝 I regularly write articles on [https://kishankrmaurya.medium.com/](https://kishankrmaurya.medium.com/)
 
 📫 How to reach me **kishankr.maurya@gmail.com**
 
